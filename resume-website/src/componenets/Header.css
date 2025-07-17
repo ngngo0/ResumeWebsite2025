@@ -1,0 +1,22 @@
+/* Header, nav, ul, li, a*/
+header{
+    display: flex;
+    justify-content: space-between; /* Gap beween name and nav*/
+    ul{
+        right: 0;
+        display: flex;
+        list-style: none;
+        padding:1rem;
+        
+        li{
+            font-size: 1.125rem;
+            padding:0 1rem;
+        }
+    }
+}
+a {
+    text-decoration: none;
+}
+h1{
+    font-size: 2rem;
+}
