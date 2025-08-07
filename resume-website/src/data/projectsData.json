@@ -1,0 +1,26 @@
+[
+    { 
+        "title": "Oura Ring Dashboard",
+        "tags": ["Fullstack", "Vue", "Docker", "Nodejs", "Express"],
+        "description": "",
+        "picture": ""
+    },
+    { 
+        "title": "Scribe.ai",
+        "tags": ["FullStack", "React", "RESTAPI", "Socket.io", "Node.js", "Express", "MongoDB"],
+        "description": "",
+        "picture": ""
+    },
+    { 
+        "title": "OpenMRS Contributor",
+        "tags": ["OpenSource", "React", "Jest", "MedTech", "Zod", "Microfrontend"],
+        "description": "",
+        "picture": ""
+    },
+    { 
+        "title": "Automations",
+        "tags": ["OpenSource", "Testing"],
+        "description": "",
+        "picture": ""
+    }
+]

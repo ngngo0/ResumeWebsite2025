@@ -1,6 +1,7 @@
 /* Header, nav, ul, li, a*/
 header{
     display: flex;
+    margin:1rem;
     justify-content: space-between; /* Gap beween name and nav*/
     ul{
         right: 0;
