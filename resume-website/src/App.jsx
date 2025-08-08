@@ -1,7 +1,7 @@
-import './App.css'
 import './index.css';
 import Header from './componenets/Header'
 import Projects from './componenets/Projects'
+import Websites from './componenets/Websites'
 
 function App() {
 
@@ -9,6 +9,7 @@ function App() {
     <>
       <Header/>
       <Projects></Projects>
+      <Websites></Websites>
     </>
   )
 }
