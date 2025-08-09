@@ -1,26 +1,33 @@
 [
     { 
         "title": "Rising Stars Conference",
-        "tags": [],
-        "description": "",
-        "picture": ""
+        "tags": ["Wordpress","HTML","CSS","JS"],
+        "description": null,
+        "picture": null,
+        "link":"https://ieee-risingstars.org/2026/"
     },
     { 
         "title": "Region 6 Young Professionals",
-        "tags": [],
-        "description": "",
-        "picture": ""
+        "tags": ["Wordpress","HTML","CSS","JS"],
+        "description": null,
+        "picture": null,
+        "link":"https://r6.ieee.org/yp/"
+        
     },
     { 
         "title": "GameSig",
-        "tags": [],
-        "description": "",
-        "picture": ""
+        "tags": ["HTML","CSS","JS"],
+        "description": null,
+        "picture": null,
+        "link":"https://gamesigshowcase.org/",
+        "bannerText":"Redesigning"
     },
     { 
-        "title": "Automations",
+        "title": "Region 6 Student Activities",
         "tags": [],
-        "description": "",
-        "picture": ""
+        "description": null,
+        "picture": null,
+        "link":"https://site.ieee.org/r6-students/",
+        "bannerText":"Redesigning"
     }
 ]

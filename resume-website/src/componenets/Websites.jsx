@@ -1,22 +1,25 @@
-import ProjectsData from '../data/projectsData.json'
+import WebsitesData from '../data/websitesData.json'
 import Card from './Card'
 
-function Projects() {
+function Websites() {
   return (
     <>
         <section>
           <h2 className="text-center text-2xl font-semibold">
-            Projects
+            Websites
           </h2>
 
           <div className="flex center justify-center items-center">
             {
-              ProjectsData.map(({title,tags,description, picture})=>(
+              WebsitesData.map(({title,tags,description, picture, link, bannerText})=>(
                 <Card
+                  key={title}
                   title={title} 
                   tags={tags} 
                   description={description} 
-                  picture={picture}>
+                  picture={picture}
+                  link={link}
+                  bannerText={bannerText}>
                 </Card>
               ))
             }
@@ -26,4 +29,4 @@ function Projects() {
   )
 }
 
-export default Projects
+export default Websites

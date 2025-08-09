@@ -11,12 +11,14 @@ function Projects() {
 
           <div className="flex center justify-center items-center">
             {
-              ProjectsData.map(({title,tags,description, picture})=>(
+              ProjectsData.map(({title,tags,description, picture, bannerText})=>(
                 <Card
+                  key={title}
                   title={title} 
                   tags={tags} 
                   description={description} 
-                  picture={picture}>
+                  picture={picture}
+                  bannerText={bannerText}>
                 </Card>
               ))
             }

@@ -2,25 +2,30 @@
     { 
         "title": "Oura Ring Dashboard",
         "tags": ["Fullstack", "Vue", "Docker", "Nodejs", "Express"],
-        "description": "",
-        "picture": ""
+        "description": null,
+        "picture": null,
+        "link": null
     },
     { 
         "title": "Scribe.ai",
         "tags": ["FullStack", "React", "RESTAPI", "Socket.io", "Node.js", "Express", "MongoDB"],
-        "description": "",
-        "picture": ""
+        "description": null,
+        "picture": null,
+        "link": null,
+        "bannerText":"2nd place"
     },
     { 
         "title": "OpenMRS Contributor",
         "tags": ["OpenSource", "React", "Jest", "MedTech", "Zod", "Microfrontend"],
-        "description": "",
-        "picture": ""
+        "description": null,
+        "picture": null,
+        "link": null
     },
     { 
         "title": "Automations",
         "tags": ["OpenSource", "Testing"],
-        "description": "",
-        "picture": ""
+        "description": null,
+        "picture": null,
+        "link": null
     }
 ]
